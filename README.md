@@ -17,7 +17,7 @@ Cara Menjalankan Program :
 - Setelah itu buka di text editor dan jalankan melalui terminal dengan mengetik python main.py
 
 ## Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
-[MODUL MENERAPKAN MVC PADA BAHASA PEMOGRAMAN PYTHON](https://drive.google.com/file/d/1yp0G6XL1bA33bTAm4NhnOOU9AqXGT47c/view?usp=share_link)
+[MODUL MENERAPKAN MVC PADA BAHASA PEMOGRAMAN PYTHON](https://drive.google.com/file/d/1mC6cZ05sK65wrn0nTMBaF0gqmgl8y_D3/view?usp=share_link)
 
 ## Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
