@@ -21,6 +21,7 @@ Cara Menjalankan Program :
 
 ## Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
+[VIDEO YOUTUBE TENTANG PENJELASAN DARI MATERI](https://youtu.be/cGoPLVVovOo)
 
 Berikut link repository github :
 
